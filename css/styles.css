@@ -5,6 +5,10 @@ body{
   color: rgb(90, 42, 42);
 }
 
+.jumbotron {
+  text-align: center;
+}
+
 .row {
   margin: 10px 0px;
 }
