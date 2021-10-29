@@ -1,6 +1,8 @@
 body{
   max-width: 900px;
   margin: auto;
+  background-color: rgb(224, 236, 247);
+  color: rgb(90, 42, 42);
 }
 
 .row {
@@ -10,3 +12,9 @@ body{
 dd {
   display: none;
 }
+dt:hover {
+  text-decoration: underline;
+  color: brown;
+  cursor: pointer;
+}
+
