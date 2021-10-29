@@ -50,7 +50,7 @@ $(document).ready(function() {
   $("#term17").click(function () {
     $("#def17").toggle();
   });
-  $("#term8").click(function () {
+  $("#term18").click(function () {
     $("#def18").toggle();
   });
   $("#term19").click(function () {
