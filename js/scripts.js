@@ -53,7 +53,7 @@ $(document).ready(function() {
   $("#term18").click(function () {
     $("#def18").toggle();
   });
-  $("#term19").click(function () {
+  $("#term19").click(function() {
     $("#def19").toggle();
   });
 });
